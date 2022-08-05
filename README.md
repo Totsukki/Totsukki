@@ -10,5 +10,6 @@
   <img width='80rem' src='https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png'    alt='Java'>
   <img width='100rem'src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/800px-The_C_Programming_Language_logo.svg.png' alt='C'>
   <img width='100rem'src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/800px-C_Sharp_wordmark.svg.png' alt='C#'>
+  <img width='200rem'src='https://static.djangoproject.com/img/logos/django-logo-negative.svg' alt='Django'>
 </div>
 
