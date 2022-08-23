@@ -2,7 +2,7 @@
 <p>I'm Gemarlo Aquillo, an aspiring web developer, major in programming burnout. Programming is my passion because why not diba lods </p>
 
 <h1>Tech Stack</h1>
-<div class='stack'>
+<div style='display: grid; grid-template-columns: repeat(4, 1fr)'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='Python'>
   <img width='100rem' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg' alt='Javascript'>
   <img width='200rem' src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png' alt='PHP'>
