@@ -1,8 +1,8 @@
 <h1>Profile</h1>
-<p>I'm Gemarlo Aquillo, an aspiring web developer, major in programming burnout. Programming is my passion because why not diba lods </p>
+<p>Hi! I'm Gemarlo Aquillo, an aspiring full-stack web developer/software engineer, currently in my 4th year taking up my Bachelor of Science in Information Technology degree at Cebu Institute of Technology. I am constantly honing my skills to ensure that I'm well-equipped for the future.</p>
 
 <h1>Tech Stack</h1>
-<div style='display: grid; grid-template-columns: repeat(4, 1fr)'>
+<div style='display: grid; grid-template-columns: repeat(3, 1fr)'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' alt='Python'>
   <img width='100rem' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg' alt='Javascript'>
   <img width='200rem' src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png' alt='PHP'>
