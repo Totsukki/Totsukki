@@ -1,7 +1,7 @@
 # Profile
 Hi! I'm Gemarlo Aquillo, an aspiring full-stack web developer/software engineer, currently in my 4th year taking up my Bachelor of Science in Information Technology degree at Cebu Institute of Technology. I am constantly honing my skills to ensure that I'm well-equipped for the future.
 
-### Tech-Stack
+### Tech Stack
 <div>
   <img height='40rem' src='https://cdn.worldvectorlogo.com/logos/javascript-1.svg' alt='Javascript'/>
   <img height='40rem' src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png' alt='PHP'/>
