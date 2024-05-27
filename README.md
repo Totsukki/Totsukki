@@ -10,8 +10,8 @@ Hi! I'm Gemarlo Aquilllo, and I am constantly honing my skills to ensure that I'
   <img height='40rem'src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/800px-C_Sharp_wordmark.svg.png' alt='C#'/>
   <img height='40rem' src='https://static.djangoproject.com/img/logos/django-logo-negative.svg' alt='Django'/>
   <img height='40rem' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' alt='React'/>
-  <img height='40rem' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png' alt='Angular'/>
-  <img height='40rem' src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png' alt='Vue'/>
+  <img height='40rem' src='https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg' alt='Angular'/>
+  <img height='40rem' src='https://commons.wikimedia.org/wiki/File:Vue.png' alt='Vue'/>
   <img height='40rem' src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png' alt='Tailwind'/>
   <img height='40rem' src='https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png' alt='MySQL'/>
   <img height='40rem' src='https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/1280px-MySQL_logo.svg.png' alt='MySQL'/>
